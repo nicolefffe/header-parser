@@ -1,6 +1,8 @@
 'use strict';
 
 var renderme = require("renderme");
+var path = require("path");
+var fs = require("fs");
 var useragent = require("useragent");
 useragent(true);
 
