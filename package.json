@@ -12,7 +12,7 @@
     "express": "^4.13.4",
     "fs": "0.0.2",
     "net": "^1.0.2",
-    "path": "^0.12.7",
+    "renderme": "^0.1.0",
     "request": "^2.69.0",
     "useragent": "^2.1.8",
     "yamlparser": "0.0.2"
